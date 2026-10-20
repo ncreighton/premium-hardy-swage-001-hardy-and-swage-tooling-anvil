@@ -1,0 +1,2 @@
+# premium-hardy-swage-001-hardy-and-swage-tooling-anvil
+Tired of digging through a pile of hardies and swages to find the right one for your project? Stop losing track of your anvil accessories.  This Notion template gives you a centralized database to catalog every hardy, swage, and anvil accessory in your shop. Log dimensions, profiles, condition, and location so you can instantly find the right tool
